@@ -1,6 +1,6 @@
 {
   "name": "forge-plugins",
-  "description": "Plugin marketplace for the Forge Framework. Personal AI infrastructure for Claude Code, inspired by danielmiessler/Personal_AI_Infrastructure.",
+  "description": "Plugin marketplace for the Forge Framework. Personal AI infrastructure for AI coding tools.",
   "owner": { "name": "N4M3Z" },
   "plugins": [
     {
@@ -9,6 +9,22 @@
       "source": {
         "source": "url",
         "url": "https://github.com/N4M3Z/context-tlp.git"
+      }
+    },
+    {
+      "name": "session-reflect",
+      "description": "Session reflection enforcement — blocks exit without memory writes, injects pre-compaction prompts",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/N4M3Z/session-reflect.git"
+      }
+    },
+    {
+      "name": "load-avatar",
+      "description": "Digital avatar — loads identity, preferences, and goals into AI sessions. Includes scaffold for creating your own avatar.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/N4M3Z/load-avatar.git"
       }
     }
   ]
