@@ -1,0 +1,15 @@
+{
+  "name": "forge-plugins",
+  "description": "Plugin marketplace for the Forge Framework. Personal AI infrastructure for Claude Code, inspired by danielmiessler/Personal_AI_Infrastructure.",
+  "owner": { "name": "N4M3Z" },
+  "plugins": [
+    {
+      "name": "context-tlp",
+      "description": "Traffic Light Protocol (TLP) file access control with inline redaction",
+      "source": {
+        "source": "url",
+        "url": "file:///Users/N4M3Z/Data/Plugins/context-tlp"
+      }
+    }
+  ]
+}
