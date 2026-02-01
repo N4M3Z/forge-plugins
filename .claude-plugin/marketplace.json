@@ -7,8 +7,8 @@
       "name": "context-tlp",
       "description": "Traffic Light Protocol (TLP) file access control with inline redaction",
       "source": {
-        "source": "url",
-        "url": "file:///Users/N4M3Z/Data/Plugins/context-tlp"
+        "source": "github",
+        "repo": "N4M3Z/context-tlp"
       }
     }
   ]
