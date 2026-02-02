@@ -12,8 +12,16 @@
       }
     },
     {
+      "name": "journals",
+      "description": "Journal operations — daily effort logging (/log) and weekly review (/weekly-review)",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/N4M3Z/journals.git"
+      }
+    },
+    {
       "name": "session-reflect",
-      "description": "Session reflection enforcement — blocks exit without memory writes, injects pre-compaction prompts",
+      "description": "Session reflection enforcement — interactive memory capture (/reflect) with stop-hook guard",
       "source": {
         "source": "url",
         "url": "https://github.com/N4M3Z/session-reflect.git"
