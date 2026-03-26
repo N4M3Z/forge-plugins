@@ -3,38 +3,6 @@
     "owner": { "name": "N4M3Z" },
     "plugins": [
         {
-            "name": "context-tlp",
-            "description": "Traffic Light Protocol (TLP) file access control with inline redaction",
-            "source": {
-                "type": "url",
-                "url": "https://github.com/N4M3Z/context-tlp.git"
-            }
-        },
-        {
-            "name": "journals",
-            "description": "Journal operations — daily effort logging (/log) and weekly review (/weekly-review)",
-            "source": {
-                "type": "url",
-                "url": "https://github.com/N4M3Z/journals.git"
-            }
-        },
-        {
-            "name": "session-reflect",
-            "description": "Session reflection enforcement — interactive memory capture (/reflect) with stop-hook guard",
-            "source": {
-                "type": "url",
-                "url": "https://github.com/N4M3Z/session-reflect.git"
-            }
-        },
-        {
-            "name": "load-avatar",
-            "description": "Digital avatar — loads identity, preferences, and goals into AI sessions. Includes scaffold for creating your own avatar.",
-            "source": {
-                "type": "url",
-                "url": "https://github.com/N4M3Z/load-avatar.git"
-            }
-        },
-        {
             "name": "forge-finance",
             "description": "Tax law rules, document analysis, and filing workflows for Czech personal income tax (DPFO)",
             "source": {
