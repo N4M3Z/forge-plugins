@@ -5,10 +5,7 @@
         {
             "name": "forge-finance",
             "description": "Tax law rules, document analysis, and filing workflows for Czech personal income tax (DPFO)",
-            "source": {
-                "source": "github",
-                "repo": "N4M3Z/forge-finance"
-            }
+            "source": "./forge-finance"
         }
     ]
 }

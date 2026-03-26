@@ -4,9 +4,9 @@ Plugin marketplace for Claude Code. Publishes forge modules as standalone plugin
 
 ## Available Plugins
 
-| Plugin                                                       | Description                                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------- |
-| [forge-finance](https://github.com/N4M3Z/forge-finance)     | Tax law rules, document analysis, and filing workflows for Czech personal income tax (DPFO) |
+| Plugin                                                   | Description                                                                                  |
+| -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [forge-finance](forge-finance)                           | Tax law rules, document analysis, and filing workflows for Czech personal income tax (DPFO)  |
 
 ## Usage
 
