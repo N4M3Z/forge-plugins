@@ -1,0 +1,8 @@
+{
+    "name": "forge-plugins",
+    "version": "0.1.0",
+    "description": "Plugin marketplace for the Forge Framework. Personal AI infrastructure for AI coding tools.",
+    "author": {"name": "N4M3Z"},
+    "license": "EUPL-1.2",
+    "repository": "https://github.com/N4M3Z/forge-plugins"
+}
