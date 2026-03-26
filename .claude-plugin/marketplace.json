@@ -34,6 +34,14 @@
         "source": "url",
         "url": "https://github.com/N4M3Z/load-avatar.git"
       }
+    },
+    {
+      "name": "forge-finance",
+      "description": "Tax law rules, document analysis, and filing workflows for Czech personal income tax (DPFO)",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/N4M3Z/forge-finance.git"
+      }
     }
   ]
 }
