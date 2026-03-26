@@ -1,0 +1,4 @@
+name: forge-plugins
+version: 0.1.0
+description: Plugin marketplace and publishing -- validate and publish forge modules as standalone Claude Code plugins.
+events: []

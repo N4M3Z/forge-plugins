@@ -1,0 +1,15 @@
+# forge-plugins default configuration.
+# Override: create config.yaml (gitignored) with only the fields you want to change.
+
+skills:
+    claude:
+        Publish:
+
+    gemini:
+        Publish:
+
+    codex:
+        Publish:
+
+    opencode:
+        Publish:
