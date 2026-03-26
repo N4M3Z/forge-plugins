@@ -1,0 +1,3 @@
+[submodule "forge-finance"]
+	path = forge-finance
+	url = https://github.com/N4M3Z/forge-finance.git
