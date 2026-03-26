@@ -1,0 +1,20 @@
+_type: https://in-toto.io/Statement/v1
+subject:
+    - name: opencode/skills/publish/skill.md
+      digest:
+          sha256: 453f5c9331dd081ae7e05a7b9c4dd8ad6e54b6baf29bf082666b4c8eea4bc168
+predicateType: https://slsa.dev/provenance/v1
+predicate:
+    buildDefinition:
+        buildType: https://forge.example/build/v1
+        resolvedDependencies:
+            - uri: skills/Publish/SKILL.md
+              digest:
+                  sha256: a5c33d5befe4984bd00606f570c7f7fa8b6353e8e09ccbd89009b387b34c2bce
+    runDetails:
+        builder:
+            id: forge-cli
+            version:
+                forge: 0.1.0
+        metadata:
+            startedOn: "2026-03-24T14:01:55.341815+00:00"

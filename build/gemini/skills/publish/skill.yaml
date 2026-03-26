@@ -1,0 +1,20 @@
+_type: https://in-toto.io/Statement/v1
+subject:
+    - name: gemini/skills/publish/skill.md
+      digest:
+          sha256: ca7074cd62624c3fe91805b690c13ddccb2841e1528a3a0d7c39de8b1589ff69
+predicateType: https://slsa.dev/provenance/v1
+predicate:
+    buildDefinition:
+        buildType: https://forge.example/build/v1
+        resolvedDependencies:
+            - uri: skills/Publish/SKILL.md
+              digest:
+                  sha256: a5c33d5befe4984bd00606f570c7f7fa8b6353e8e09ccbd89009b387b34c2bce
+    runDetails:
+        builder:
+            id: forge-cli
+            version:
+                forge: 0.1.0
+        metadata:
+            startedOn: "2026-03-24T14:01:55.343728+00:00"
